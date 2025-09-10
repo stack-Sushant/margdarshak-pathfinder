@@ -122,7 +122,7 @@ const Timeline = () => {
   };
 
   return (
-    <div className="min-h-screen bg-background">
+    <div className="min-h-screen bg-muted/20">
       <Header />
       <main className="py-20">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">

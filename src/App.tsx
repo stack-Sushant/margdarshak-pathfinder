@@ -9,6 +9,7 @@ import Courses from "./pages/Courses";
 import Colleges from "./pages/Colleges";
 import Timeline from "./pages/Timeline";
 import NotFound from "./pages/NotFound";
+import Login from "./pages/Login";
 
 const queryClient = new QueryClient();
 
